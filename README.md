@@ -1,4 +1,5 @@
 Instructions to run the Mental Wealth App--------------------------------------------
+
 For Non-Android Phone Users:
 1. Download android studio at https://developer.android.com/studio/
 2. Configure android studio and use any emulator of preference
